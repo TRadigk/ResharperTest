@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ResharperTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ResharperTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
